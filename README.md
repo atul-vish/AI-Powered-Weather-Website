@@ -13,3 +13,4 @@ Stay updated with real-time weather reports! This AI-powered weather website pro
 
 ---
 
+![Weather Website](https://github.com/atul-vish/AI-Powered-Weather-Website/blob/main/Weather%20Web.png)

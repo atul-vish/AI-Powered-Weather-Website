@@ -1,6 +1,6 @@
 # ⛅ AI-Powered Weather Website 🌍  
 
-[![Contributors](https://img.shields.io/github/contributors/atul-vish/weather-ai)](#)
+[![Contributors](https://img.shields.io/github/contributors/atul-vish/AI-Powered-Weather-Website)](#)
 
 Stay updated with real-time weather reports! This AI-powered weather website provides accurate weather updates based on user-inputted locations. ☀️🌧️❄️  
 
